@@ -288,8 +288,9 @@ img {
     .Producto-container{
         margin-bottom: 1.5rem;
     }
+    
     .blog-info .btn{
-        width: 100%;
+        width: 34rem;
     }
 }
 @media (min-width:992px) {
